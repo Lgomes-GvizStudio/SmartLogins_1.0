@@ -1,0 +1,1 @@
+gcc SmartLogins.c sqlite/sqlite_db.c resources.o -o SmartLogins_v1.0.exe   -lsqlite3 -O1 -Wall -std=c99 -Wno-is-missing-braces -I include/ -L lib/ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows

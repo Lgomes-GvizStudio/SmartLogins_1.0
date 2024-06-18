@@ -1,0 +1,6 @@
+-----------------Instalacao e Uso do SmartLogins_v1.0------------------------
+*extraia SmartLogins.rar
+*execute SmartLogins_v1.0.exe
+*Adicione , delete e/ou copie Logins e senhas 
+-----------------------------------------------------------------------------------
+By - Lucas Gomes - @gviz_studio  
